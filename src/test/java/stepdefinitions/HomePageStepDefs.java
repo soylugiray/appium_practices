@@ -33,6 +33,7 @@ public class HomePageStepDefs {
 
         elements.btnProfil.click();
         elements.btnProfil.click();
+        elements.btnProfil.click();
     }
     @And("Geçersiz bir mail adresini gir")
     public void geçersizBirMailAdresiniGir() throws InterruptedException {
